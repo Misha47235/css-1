@@ -1,0 +1,67 @@
+:root {
+  --blue-color: #2196f3;
+  --white-color: #ffffff;
+  --gray-color: #2f303a;
+  --workers-color: #ececec;
+  --black-color: #000000;
+  --background-color: #757575;
+}
+
+.span {
+  color: #2196f3;
+}
+
+.worker-text {
+  color: #757575;
+}
+
+.button {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.information {
+  color: #757575;
+}
+
+.main-section {
+  background-color: #2f303a;
+}
+
+.team {
+  background-color: #ececec;
+}
+
+.name {
+  color: #000000;
+}
+
+.header-link:hover {
+  color: #2196f3;
+  cursor: pointer;
+}
+
+.header-link {
+  color: #000000;
+}
+
+.information1 {
+  color: #757575;
+}
+
+.information1:hover {
+   color: #2196f3;
+  cursor: pointer;
+}
+
+.name1 {
+  color: #ffffff;
+}
+
+.adress {
+  color: #ffffff;
+}
+
+.main-text{
+  color: #ffffff;
+}
