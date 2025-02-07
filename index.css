@@ -8,60 +8,60 @@
 }
 
 .span {
-  color: #2196f3;
+  color: var(--blue-color);
 }
 
 .worker-text {
-  color: #757575;
+  color: var(--black-color);
 }
 
 .button {
-  background-color: #2196f3;
-  color: #ffffff;
+  background-color: var(--blue-color);
+  color: var(--white-color);
 }
 
 .information {
-  color: #757575;
+  color: var(--background-color);
 }
 
 .main-section {
-  background-color: #2f303a;
+  background-color: var(--gray-color);
 }
 
 .team {
-  background-color: #ececec;
+  background-color: var(--background-color);
 }
 
 .name {
-  color: #000000;
+  color: var(--black-color);
 }
 
 .header-link:hover {
-  color: #2196f3;
+  color: var(--blue-color);
   cursor: pointer;
 }
 
 .header-link {
-  color: #000000;
+  color: var(--black-color);
 }
 
 .information1 {
-  color: #757575;
+  color: var(--background-color);
 }
 
 .information1:hover {
-   color: #2196f3;
+  color: var(--blue-color);
   cursor: pointer;
 }
 
 .name1 {
-  color: #ffffff;
+  color: var(--white-color);
 }
 
 .adress {
-  color: #ffffff;
+  color: var(--white-color);
 }
 
-.main-text{
-  color: #ffffff;
+.main-text {
+  color: var(--white-color);
 }
